@@ -5,12 +5,18 @@
       <map>
         <entry key="..\:/Users/Azzzy93/AndroidStudioProjects/AppA/app/src/main/res/drawable/header.xml" value="0.209" />
         <entry key="..\:/Users/Azzzy93/AndroidStudioProjects/AppA/app/src/main/res/drawable/ic_camera.xml" value="0.209" />
+        <entry key="..\:/Users/Azzzy93/AndroidStudioProjects/AppA/app/src/main/res/drawable/ic_edit.xml" value="0.209" />
+        <entry key="..\:/Users/Azzzy93/AndroidStudioProjects/AppA/app/src/main/res/drawable/ic_exit_to_app.xml" value="0.209" />
         <entry key="..\:/Users/Azzzy93/AndroidStudioProjects/AppA/app/src/main/res/drawable/ic_group.xml" value="0.209" />
         <entry key="..\:/Users/Azzzy93/AndroidStudioProjects/AppA/app/src/main/res/drawable/ic_secret.xml" value="0.209" />
         <entry key="..\:/Users/Azzzy93/AndroidStudioProjects/AppA/app/src/main/res/drawable/ripple_effect.xml" value="0.209" />
         <entry key="..\:/Users/Azzzy93/AndroidStudioProjects/AppA/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Azzzy93/AndroidStudioProjects/AppA/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Azzzy93/AndroidStudioProjects/AppA/app/src/main/res/layout/fragment_chats.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Azzzy93/AndroidStudioProjects/AppA/app/src/main/res/layout/fragment_enter_code.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Azzzy93/AndroidStudioProjects/AppA/app/src/main/res/layout/fragment_enter_phone_number.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Azzzy93/AndroidStudioProjects/AppA/app/src/main/res/layout/fragment_settings.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Azzzy93/AndroidStudioProjects/AppA/app/src/main/res/menu/settings.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>

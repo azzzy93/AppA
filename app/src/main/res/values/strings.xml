@@ -6,4 +6,8 @@
     <string name="press_for_change_phone_number">Нажмите чтобы изменить номер телефона</string>
     <string name="login">Имя пользователя</string>
     <string name="bio">Напишите немного о себе</string>
+    <string name="change_name">Изменить имя</string>
+    <string name="exit">Выход</string>
+    <string name="enter_phone_number">Введите номер телефона</string>
+    <string name="enter_code">Введите код отправленный на телефон</string>
 </resources>

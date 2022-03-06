@@ -26,7 +26,7 @@
             app:layout_constraintTop_toTopOf="parent" />
 
         <TextView
-            android:id="@+id/tv_user_name"
+            android:id="@+id/tv_full_name"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="@dimen/horizontal_margin"
@@ -45,9 +45,9 @@
             android:text="В сети"
             android:textColor="@color/white_dirty"
             android:textSize="@dimen/smallText"
-            app:layout_constraintEnd_toEndOf="@id/tv_user_name"
-            app:layout_constraintStart_toStartOf="@id/tv_user_name"
-            app:layout_constraintTop_toBottomOf="@id/tv_user_name" />
+            app:layout_constraintEnd_toEndOf="@id/tv_full_name"
+            app:layout_constraintStart_toStartOf="@id/tv_full_name"
+            app:layout_constraintTop_toBottomOf="@id/tv_full_name" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
@@ -105,7 +105,7 @@
         app:layout_constraintTop_toBottomOf="@id/settings_btn_change_number_phone">
 
         <TextView
-            android:id="@+id/tv_settings_login"
+            android:id="@+id/tv_user_name"
             style="@style/normal_text_style"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -118,7 +118,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/login"
-            app:layout_constraintTop_toBottomOf="@id/tv_settings_login" />
+            app:layout_constraintTop_toBottomOf="@id/tv_user_name" />
 
         <View
             android:layout_width="match_parent"

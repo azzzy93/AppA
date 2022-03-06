@@ -10,7 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppA">
         <activity
-            android:name=".ui.MainActivity"
+            android:name=".ui.register.RegisterActivity"
+            android:exported="false"
+            android:windowSoftInputMode="stateVisible|adjustResize" />
+        <activity
+            android:name=".ui.main.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
